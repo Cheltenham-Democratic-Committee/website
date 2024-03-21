@@ -12,7 +12,7 @@
 		<h3>Cheltenham Democratic Committee</h3>
 		<div class="description">
 			<p>
-				The Cheltenham Democratic Committee needs help recruit people to serve as Ward leaders,
+				The Cheltenham Democratic Committee needs help recruiting people to serve as Ward leaders,
 				committee people, and assistant committee people as required by a ward.
 			</p>
 		</div>

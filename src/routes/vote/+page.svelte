@@ -82,9 +82,9 @@
 				<li>
 					<div class="candidate">
 						<div class="picture">
-							<img src="/images/candidates/2024/mdean.jpg" alt="Madeline Dean" />
+							<img src="/images/candidates/2024/mdean.jpg" alt="Madeleine Dean" />
 						</div>
-						<div class="name">Rep. Madeline Dean</div>
+						<div class="name">Rep. Madeleine Dean</div>
 					</div>
 					<div class="race">US Congress, 4th Congressional District</div>
 				</li>
@@ -98,7 +98,7 @@
 						<div class="picture">
 							<img src="/images/candidates/2024/nnelson.jpg" alt="Napoleon Nelson" />
 						</div>
-						<div class="name">Rep. Napoloen Nelson</div>
+						<div class="name">Rep. Napoleon Nelson</div>
 					</div>
 					<div class="race">PA House of Representatives, 154th District</div>
 				</li>

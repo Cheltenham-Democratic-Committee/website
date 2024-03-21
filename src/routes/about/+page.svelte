@@ -43,7 +43,7 @@
 		</li>
 		<li>
 			<h3>Recording Secretary</h3>
-			<div class="officer">Diana Medley</div>
+			<div class="officer">Diana Mandly</div>
 		</li>
 		<li>
 			<h3>Treasurer</h3>
