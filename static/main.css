@@ -1,0 +1,50 @@
+@import url('webfonts/Montserrat.css');
+
+body {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 400;
+}
+
+a {
+	color: #5191ed;
+}
+
+a.button {
+	background-color: #103578;
+	display: inline-block;
+	padding: 20px;
+	color: #ffffff;
+	text-decoration: none;
+	border: 2px solid #103578;
+	font-weight: bold;
+	text-align: center;
+}
+
+a.button:hover {
+	background-color: #5191ed;
+}
+
+li {
+	margin-bottom: 5px;
+}
+
+h2 {
+	color: #103578;
+	margin: 5px 0px;
+	margin-top: 20px;
+	padding: 0px;
+}
+
+h3 {
+	text-align: center;
+	background-color: #f9d95c;
+	padding: 3px;
+	margin: 5px 0px;
+}
+
+h4 {
+	margin: 5px 0px;
+	text-align: center;
+	background-color: #eee;
+	padding: 2px;
+}
