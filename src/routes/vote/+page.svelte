@@ -113,7 +113,15 @@
 		<li>
 			<h3>PA Attorney General</h3>
 			<div class="description">
-				Please vote for any <strong><em>one</em></strong> of these highly qualified candidates:
+				<p>
+					Please vote for any <strong><em>one</em></strong> of these highly qualified candidates.
+				</p>
+				<p>
+					<a
+						href="https://drive.google.com/file/d/1AkYFac8B3zDKyjnrKhX-e2Sus0O4w-YH/view?usp=drive_link"
+						>read our guide</a
+					> to learn more about them.
+				</p>
 			</div>
 			<ul class="candidates">
 				<li>
