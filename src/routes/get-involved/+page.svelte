@@ -32,7 +32,7 @@
 					</p>
 				</div>
 				<div class="interested">
-					<a href="mailto:chairs@cheltdems.org" class="button">I'm interested!</a>
+					<a href="mailto:chairs@cheltdems.com" class="button">I'm interested!</a>
 				</div>
 			</li>
 			<li>
@@ -46,7 +46,7 @@
 					</p>
 				</div>
 				<div class="interested">
-					<a href="mailto:chairs@cheltdems.org" class="button">I'm interested!</a>
+					<a href="mailto:chairs@cheltdems.com" class="button">I'm interested!</a>
 				</div>
 			</li>
 			<li>
@@ -56,7 +56,7 @@
 					<p>Create and help distribute welcome packets to new Cheltenham residents.</p>
 				</div>
 				<div class="interested">
-					<a href="mailto:chairs@cheltdems.org" class="button">I'm interested!</a>
+					<a href="mailto:chairs@cheltdems.com" class="button">I'm interested!</a>
 				</div>
 			</li>
 			<li />
@@ -77,7 +77,7 @@
 				<div class="time">(1-3 hours / month)</div>
 				<div class="description">Participate in the bylaws committee.</div>
 				<div class="interested">
-					<a href="mailto:chairs@cheltdems.org" class="button">I'm interested!</a>
+					<a href="mailto:chairs@cheltdems.com" class="button">I'm interested!</a>
 				</div>
 			</li>
 			<li />
@@ -101,7 +101,7 @@
 					activities and issues.
 				</div>
 				<div class="interested">
-					<a href="mailto:chairs@cheltdems.org" class="button">I'm interested!</a>
+					<a href="mailto:chairs@cheltdems.com" class="button">I'm interested!</a>
 				</div>
 			</li>
 			<li>
@@ -112,7 +112,7 @@
 					activities and issues.
 				</div>
 				<div class="interested">
-					<a href="mailto:chairs@cheltdems.org" class="button">I'm interested!</a>
+					<a href="mailto:chairs@cheltdems.com" class="button">I'm interested!</a>
 				</div>
 			</li>
 		</ul>
@@ -136,7 +136,7 @@
 					Work with the Treasurer to understand and execute the financial operations of the CDC.
 				</div>
 				<div class="interested">
-					<a href="mailto:chairs@cheltdems.org" class="button">I'm interested!</a>
+					<a href="mailto:chairs@cheltdems.com" class="button">I'm interested!</a>
 				</div>
 			</li>
 			<li />
@@ -159,7 +159,7 @@
 					support those in need.
 				</div>
 				<div class="interested">
-					<a href="mailto:chairs@cheltdems.org" class="button">I'm interested!</a>
+					<a href="mailto:chairs@cheltdems.com" class="button">I'm interested!</a>
 				</div>
 			</li>
 			<li>
@@ -167,7 +167,7 @@
 				<div class="time">(1-5 hours / month)</div>
 				<div class="description">Help collect and package food for donation and pick up.</div>
 				<div class="interested">
-					<a href="mailto:chairs@cheltdems.org" class="button">I'm interested!</a>
+					<a href="mailto:chairs@cheltdems.com" class="button">I'm interested!</a>
 				</div>
 			</li>
 		</ul>
@@ -189,7 +189,7 @@
 					operate.
 				</div>
 				<div class="interested">
-					<a href="mailto:chairs@cheltdems.org" class="button">I'm interested!</a>
+					<a href="mailto:chairs@cheltdems.com" class="button">I'm interested!</a>
 				</div>
 			</li>
 			<li>
@@ -200,7 +200,7 @@
 					fundraising goals.
 				</div>
 				<div class="interested">
-					<a href="mailto:chairs@cheltdems.org" class="button">I'm interested!</a>
+					<a href="mailto:chairs@cheltdems.com" class="button">I'm interested!</a>
 				</div>
 			</li>
 		</ul>
@@ -222,7 +222,7 @@
 					Work with CDC leadership to organize and execute our GOTV efforts.
 				</div>
 				<div class="interested">
-					<a href="mailto:chairs@cheltdems.org" class="button">I'm interested!</a>
+					<a href="mailto:chairs@cheltdems.com" class="button">I'm interested!</a>
 				</div>
 			</li>
 			<li>
@@ -230,7 +230,7 @@
 				<div class="time">(1-5 hours / month)</div>
 				<div class="description">Help organize the CDC’s GOTV efforts.</div>
 				<div class="interested">
-					<a href="mailto:chairs@cheltdems.org" class="button">I'm interested!</a>
+					<a href="mailto:chairs@cheltdems.com" class="button">I'm interested!</a>
 				</div>
 			</li>
 			<li>
@@ -241,7 +241,7 @@
 					voters.
 				</div>
 				<div class="interested">
-					<a href="mailto:chairs@cheltdems.org" class="button">I'm interested!</a>
+					<a href="mailto:chairs@cheltdems.com" class="button">I'm interested!</a>
 				</div>
 			</li>
 			<li>
@@ -249,7 +249,7 @@
 				<div class="time">(1-10 hours / month)</div>
 				<div class="description">Help call potential voters.</div>
 				<div class="interested">
-					<a href="mailto:chairs@cheltdems.org" class="button">I'm interested!</a>
+					<a href="mailto:chairs@cheltdems.com" class="button">I'm interested!</a>
 				</div>
 			</li>
 			<li>
@@ -257,7 +257,7 @@
 				<div class="time">(1-10 hours / month)</div>
 				<div class="description">Help send targeted text messages to potential voters.</div>
 				<div class="interested">
-					<a href="mailto:chairs@cheltdems.org" class="button">I'm interested!</a>
+					<a href="mailto:chairs@cheltdems.com" class="button">I'm interested!</a>
 				</div>
 			</li>
 			<li>
@@ -268,7 +268,7 @@
 					Cheltenham are kept informed of key issues related to the elections.
 				</div>
 				<div class="interested">
-					<a href="mailto:chairs@cheltdems.org" class="button">I'm interested!</a>
+					<a href="mailto:chairs@cheltdems.com" class="button">I'm interested!</a>
 				</div>
 			</li>
 			<li>
@@ -278,7 +278,7 @@
 					Work with the county’s Voter Services to ensure the election runs smoothly.
 				</div>
 				<div class="interested">
-					<a href="mailto:chairs@cheltdems.org" class="button">I'm interested!</a>
+					<a href="mailto:chairs@cheltdems.com" class="button">I'm interested!</a>
 				</div>
 			</li>
 			<li>
@@ -288,7 +288,7 @@
 					Work with the CDC to help share information about endorsed candidates.
 				</div>
 				<div class="interested">
-					<a href="mailto:chairs@cheltdems.org" class="button">I'm interested!</a>
+					<a href="mailto:chairs@cheltdems.com" class="button">I'm interested!</a>
 				</div>
 			</li>
 		</ul>
@@ -311,7 +311,7 @@
 					events.
 				</div>
 				<div class="interested">
-					<a href="mailto:chairs@cheltdems.org" class="button">I'm interested!</a>
+					<a href="mailto:chairs@cheltdems.com" class="button">I'm interested!</a>
 				</div>
 			</li>
 			<li>
@@ -319,7 +319,7 @@
 				<div class="time">(1-5 hours / month)</div>
 				<div class="description">Work to help identify, plan, and execute social events.</div>
 				<div class="interested">
-					<a href="mailto:chairs@cheltdems.org" class="button">I'm interested!</a>
+					<a href="mailto:chairs@cheltdems.com" class="button">I'm interested!</a>
 				</div>
 			</li>
 		</ul>
@@ -338,7 +338,7 @@
 				<div class="time">(1-5 hours / month)</div>
 				<div class="description">Help us keep our website up to date with current information.</div>
 				<div class="interested">
-					<a href="mailto:chairs@cheltdems.org" class="button">I'm interested!</a>
+					<a href="mailto:chairs@cheltdems.com" class="button">I'm interested!</a>
 				</div>
 			</li>
 			<li>
@@ -349,7 +349,7 @@
 					speakers have access to microphones.
 				</div>
 				<div class="interested">
-					<a href="mailto:chairs@cheltdems.org" class="button">I'm interested!</a>
+					<a href="mailto:chairs@cheltdems.com" class="button">I'm interested!</a>
 				</div>
 			</li>
 			<li>
@@ -360,7 +360,7 @@
 					management, communication tools, etc.).
 				</div>
 				<div class="interested">
-					<a href="mailto:chairs@cheltdems.org" class="button">I'm interested!</a>
+					<a href="mailto:chairs@cheltdems.com" class="button">I'm interested!</a>
 				</div>
 			</li>
 			<li />
@@ -383,7 +383,7 @@
 					Work with the committee to plan and organize voter registration events.
 				</div>
 				<div class="interested">
-					<a href="mailto:chairs@cheltdems.org" class="button">I'm interested!</a>
+					<a href="mailto:chairs@cheltdems.com" class="button">I'm interested!</a>
 				</div>
 			</li>
 			<li>
@@ -391,7 +391,7 @@
 				<div class="time">(2-5 hours / month)</div>
 				<div class="description">Help register people to vote at various community locations.</div>
 				<div class="interested">
-					<a href="mailto:chairs@cheltdems.org" class="button">I'm interested!</a>
+					<a href="mailto:chairs@cheltdems.com" class="button">I'm interested!</a>
 				</div>
 			</li>
 			<li>
@@ -401,7 +401,7 @@
 					Canvas Cheltenham to ensure residents know how to register to vote.
 				</div>
 				<div class="interested">
-					<a href="mailto:chairs@cheltdems.org" class="button">I'm interested!</a>
+					<a href="mailto:chairs@cheltdems.com" class="button">I'm interested!</a>
 				</div>
 			</li>
 			<li />
@@ -425,7 +425,7 @@
 					reflected in the organization.
 				</div>
 				<div class="interested">
-					<a href="mailto:chairs@cheltdems.org" class="button">I'm interested!</a>
+					<a href="mailto:chairs@cheltdems.com" class="button">I'm interested!</a>
 				</div>
 			</li>
 			<li>
@@ -435,7 +435,7 @@
 					Help plan events and activities related to the interests of young Cheltenham democrats.
 				</div>
 				<div class="interested">
-					<a href="mailto:chairs@cheltdems.org" class="button">I'm interested!</a>
+					<a href="mailto:chairs@cheltdems.com" class="button">I'm interested!</a>
 				</div>
 			</li>
 		</ul>
