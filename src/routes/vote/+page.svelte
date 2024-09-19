@@ -17,7 +17,7 @@
 	</li>
 </ul>
 
-<h2>Endorsed Candidates</h2>
+<h2>Endorsed Candidates, 2024 General Election</h2>
 <div id="endorsed-races">
 	<ul class="races">
 		<li>
@@ -58,9 +58,18 @@
 				<li>
 					<div class="candidate">
 						<div class="picture">
-							<img src="/images/candidates/2024/rbizzarro.jpg" alt="Ryan Bizzarro" />
+							<img src="/images/candidates/2024/edepasquale.png" alt="Eugene DePasquale" />
 						</div>
-						<div class="name">Rep. Ryan Bizzarro</div>
+						<div class="name">Eugene DePasquale</div>
+					</div>
+					<div class="race">PA Attorney General</div>
+				</li>
+				<li>
+					<div class="candidate">
+						<div class="picture">
+							<img src="/images/candidates/2024/emcclelland.png" alt="Erin McClelland" />
+						</div>
+						<div class="name">Erin McClelland</div>
 					</div>
 					<div class="race">PA Treasurer</div>
 				</li>
@@ -102,74 +111,6 @@
 					</div>
 					<div class="race">PA House of Representatives, 154th District</div>
 				</li>
-			</ul>
-		</li>
-	</ul>
-</div>
-
-<h2>Open Races</h2>
-<div id="open-races">
-	<ul class="races">
-		<li>
-			<h3>PA Attorney General</h3>
-			<div class="description">
-				<p>
-					Please vote for any <strong><em>one</em></strong> of these highly qualified candidates.
-				</p>
-				<p>
-					<a
-						href="https://drive.google.com/file/d/1AkYFac8B3zDKyjnrKhX-e2Sus0O4w-YH/view?usp=drive_link"
-						>read our guide</a
-					> to learn more about them.
-				</p>
-			</div>
-			<ul class="candidates">
-				<li>
-					<div class="candidate">
-						<div class="picture">
-							<img src="/images/candidates/2024/kbradfordgrey.jpg" alt="Keir Bradford-Grey" />
-						</div>
-						<div class="name">Keir Bradford-Grey</div>
-					</div>
-					<div class="race">PA Attorney General</div>
-				</li>
-				<li>
-					<div class="candidate">
-						<div class="picture">
-							<img src="/images/candidates/2024/edepasquale.png" alt="Eugene DePasquale" />
-						</div>
-						<div class="name">Eugene DePasquale</div>
-					</div>
-					<div class="race">PA Attorney General</div>
-				</li>
-				<li>
-					<div class="candidate">
-						<div class="picture">
-							<img src="/images/candidates/2024/jkahn.jpg" alt="Joe Kahn" />
-						</div>
-						<div class="name">Joe Kahn</div>
-					</div>
-					<div class="race">PA Attorney General</div>
-				</li>
-				<li>
-					<div class="candidate">
-						<div class="picture">
-							<img src="/images/candidates/2024/jsolomon.jpg" alt="Jared Solomon" />
-						</div>
-						<div class="name">Jared Solomon</div>
-					</div>
-					<div class="race">PA Attorney General</div>
-				</li>
-				<li>
-					<div class="candidate">
-						<div class="picture">
-							<img src="/images/candidates/2024/jstollsteimer.jpg" alt="Jack Stollsteimer" />
-						</div>
-						<div class="name">Jack Stollsteimer</div>
-					</div>
-					<div class="race">PA Attorney General</div>
-				</li>
-				<li />
 			</ul>
 		</li>
 	</ul>
@@ -236,10 +177,5 @@
 		max-width: 100%;
 		overflow: hidden;
 		object-fit: cover;
-	}
-
-	div.description {
-		text-align: center;
-		font-style: italic;
 	}
 </style>
