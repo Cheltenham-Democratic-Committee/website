@@ -55,7 +55,7 @@
 		</li>
 		<li>
 			<h3>Representative At Large</h3>
-			<div class="officer">Dwight Pedro Lewis</div>
+			<div class="officer">(Vacant)</div>
 		</li>
 		<li />
 	</ul>
@@ -84,8 +84,8 @@
 				</li>
 				<li>
 					<h4>Precinct 1-4</h4>
-					<div class="committee-person" />
-					<div class="committee-person" />
+					<div class="committee-person vacant">(Vacant)</div>
+					<div class="committee-person vacant">(Vacant)</div>
 				</li>
 			</ul>
 		</li>
@@ -169,7 +169,7 @@
 			<ul class="precincts">
 				<li>
 					<h4>Precinct 5-1</h4>
-					<div class="committee-person">Fred Milbert</div>
+					<div class="committee-person">Fred Milbert (ward leader)</div>
 					<div class="committee-person">William Pillsbury</div>
 				</li>
 				<li>
@@ -180,11 +180,11 @@
 				<li>
 					<h4>Precinct 5-3</h4>
 					<div class="committee-person">Matthew McAlpin</div>
-					<div class="committee-person">Linda Feldman</div>
+					<div class="committee-person vacant">(Vacant)</div>
 				</li>
 				<li>
 					<h4>Precinct 5-4</h4>
-					<div class="committee-person ward-leader">Joyce Drayton (ward leader)</div>
+					<div class="committee-person ward-leader">Joyce Drayton</div>
 					<div class="committee-person">Daniel Norris</div>
 				</li>
 			</ul>
