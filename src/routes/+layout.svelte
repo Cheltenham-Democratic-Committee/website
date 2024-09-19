@@ -42,8 +42,13 @@
 </div>
 
 <div id="footer">
-	<em>This site is Open Source.</em> Want to make an improvement?
-	<a href="https://github.com/Cheltenham-Democratic-Committee/website/">Open a PR</a>.
+	<div class="social">
+		Follow us on <a href="https://www.facebook.com/cheltdems">Facebook</a>
+	</div>
+	<div>
+		<em>This site is Open Source.</em> Want to make an improvement?
+		<a href="https://github.com/Cheltenham-Democratic-Committee/website/">Open a PR</a>.
+	</div>
 </div>
 
 <style>
