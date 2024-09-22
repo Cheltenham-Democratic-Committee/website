@@ -26,18 +26,18 @@
 				<li>
 					<div class="candidate">
 						<div class="picture">
-							<img src="/images/candidates/2024/jbiden.jpg" alt="Joe Biden" />
+							<img src="/images/candidates/2024/kharris.jpg" alt="Kamala Harris" />
 						</div>
-						<div class="name">President Joe Biden</div>
+						<div class="name">Kamala Harris</div>
 					</div>
 					<div class="race">President</div>
 				</li>
 				<li>
 					<div class="candidate">
 						<div class="picture">
-							<img src="/images/candidates/2024/kharris.jpg" alt="Kamala Harris" />
+							<img src="/images/candidates/2024/twalz.jpg" alt="Tim Walz" />
 						</div>
-						<div class="name">Vice President Kamala Harris</div>
+						<div class="name">Tim Walz</div>
 					</div>
 					<div class="race">Vice President</div>
 				</li>
