@@ -2,11 +2,23 @@
 <ul id="methods">
 	<li id="credit-card">
 		<h3>Credit Card</h3>
-		<a
-			id="paypal"
-			class="button"
-			href="https://www.paypal.com/donate/?hosted_button_id=Z354YKMF6QV9L">Donate via PayPal</a
-		>
+		<ul>
+			<li>
+				<a
+					id="paypal"
+					class="button"
+					href="https://www.paypal.com/donate/?hosted_button_id=Z354YKMF6QV9L">Donate via PayPal</a
+				>
+			</li>
+			<li>
+				<a
+					id="actblue"
+					class="button"
+					href="https://secure.actblue.com/donate/democratic-party-of-cheltenham-township"
+					>Donate via ActBlue</a
+				>
+			</li>
+		</ul>
 	</li>
 	<li>
 		<h3>Check</h3>
@@ -56,5 +68,8 @@
 	}
 	#credit-card h3 {
 		margin-bottom: 20px;
+	}
+	#credit-card a {
+		width: 200px;
 	}
 </style>
