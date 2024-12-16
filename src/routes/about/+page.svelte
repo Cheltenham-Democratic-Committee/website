@@ -100,7 +100,7 @@
 				<li>
 					<h4>Precinct 2-2</h4>
 					<div class="committee-person">Bruce Wagner</div>
-					<div class="committee-person">Lisa Fuller</div>
+					<div class="committee-person">(Vacant)</div>
 				</li>
 				<li>
 					<h4>Precinct 2-3</h4>
@@ -110,7 +110,7 @@
 				<li>
 					<h4>Precinct 2-4</h4>
 					<div class="committee-person">Regina Gordon</div>
-					<div class="committee-person vacant">(Vacant)</div>
+					<div class="committee-person vacant">Sandra Byrd-Smith</div>
 				</li>
 			</ul>
 		</li>
