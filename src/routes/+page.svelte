@@ -22,6 +22,10 @@
 		<a class="button" href="/donate">Donate</a>
 	</div>
 </div>
+<div class="banner">
+	We are accepting applications for endorsement for school board, township commissioner, and finance
+	officer. <a href="/vote">Visit our information page</a> to learn more.
+</div>
 
 <h2>Meetings</h2>
 <Meetings />
@@ -43,5 +47,12 @@
 	}
 	#banner img {
 		width: 100%;
+	}
+	.banner {
+		margin: 30px;
+		padding: 20px;
+		text-align: center;
+		font-size: 1.4em;
+		background-color: #f9d362;
 	}
 </style>
