@@ -3,7 +3,7 @@
 
 <p>
 	In 2025 there will be municipal elections in Montgomery County. The primary election will be held
-	on May 19th, and the general election will be held on November 4th.
+	on May 20th, and the general election will be held on November 4th.
 </p>
 
 <p>The following positions will be running in Cheltenham Township:</p>
