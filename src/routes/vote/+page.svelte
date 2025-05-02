@@ -58,6 +58,9 @@
 			<ul class="candidates">
 				<li>
 					<div class="candidate">
+						<div class="picture">
+							<img src="/images/candidates/2025/mpitts.jpg" alt="Melvin Pitts" />
+						</div>
 						<div class="name">Melvin Pitts</div>
 					</div>
 				</li>
