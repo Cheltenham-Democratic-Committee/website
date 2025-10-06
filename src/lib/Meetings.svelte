@@ -12,7 +12,7 @@ Join us at <a href="https://maps.app.goo.gl/wMegt4ySXNhxDP8n7" target="_blank"
 	<li>July 14th, 2025</li>
 	<li>No meeting in August</li>
 	<li>September 8th, 2025</li>
-	<li>October 8th, 2025 (1st Monday)</li>
+	<li>October 6th, 2025 (1st Monday)</li>
 	<li>November 10th, 2025</li>
 	<li>December 8th, 2025</li>
 </ul>
