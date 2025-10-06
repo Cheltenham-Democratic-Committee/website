@@ -14,7 +14,7 @@
 
 <div id="actions">
 	<div>
-		<a class="ml-onclick-form button" href="/" onClick="ml('show', 'sdV778', true)"
+		<a class="ml-onclick-form button" href="/" onclick={() => window.ml('show', 'sdV778', true)}
 			>Join our mailing list</a
 		>
 	</div>
