@@ -23,8 +23,8 @@
 	</div>
 </div>
 <div class="banner">
-	We are accepting applications for endorsement for school board, township commissioner, and finance
-	officer. <a href="/vote">Visit our information page</a> to learn more.
+	2026 is a committee person election year!
+	<a href="/run-for-committeeperson">Learn how to run</a>.
 </div>
 
 <h2>Meetings</h2>
