@@ -30,6 +30,9 @@
 						They phone bank, canvass and volunteer during the primary and general elections in
 						support of Democratic candidates in Cheltenham.
 					</p>
+					<p>
+						<a href="/run-for-committeeperson">Learn how to run for committee person in 2026!</a>
+					</p>
 				</div>
 				<div class="interested">
 					<a href="mailto:chairs@cheltdems.com" class="button">I'm interested!</a>
