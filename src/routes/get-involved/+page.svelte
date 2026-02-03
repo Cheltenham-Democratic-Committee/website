@@ -62,7 +62,7 @@
 					<a href="mailto:chairs@cheltdems.com" class="button">I'm interested!</a>
 				</div>
 			</li>
-			<li />
+			<li></li>
 		</ul>
 	</li>
 	<li>
@@ -83,7 +83,7 @@
 					<a href="mailto:chairs@cheltdems.com" class="button">I'm interested!</a>
 				</div>
 			</li>
-			<li />
+			<li></li>
 		</ul>
 	</li>
 	<li>
@@ -142,7 +142,7 @@
 					<a href="mailto:chairs@cheltdems.com" class="button">I'm interested!</a>
 				</div>
 			</li>
-			<li />
+			<li></li>
 		</ul>
 	</li>
 	<li>
@@ -366,7 +366,7 @@
 					<a href="mailto:chairs@cheltdems.com" class="button">I'm interested!</a>
 				</div>
 			</li>
-			<li />
+			<li></li>
 		</ul>
 	</li>
 	<li>
@@ -407,7 +407,7 @@
 					<a href="mailto:chairs@cheltdems.com" class="button">I'm interested!</a>
 				</div>
 			</li>
-			<li />
+			<li></li>
 		</ul>
 	</li>
 	<li>

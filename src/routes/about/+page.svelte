@@ -57,7 +57,7 @@
 			<h3>Representative At Large</h3>
 			<div class="officer">(Vacant)</div>
 		</li>
-		<li />
+		<li></li>
 	</ul>
 </div>
 
@@ -229,7 +229,7 @@
 				</li>
 			</ul>
 		</li>
-		<li />
+		<li></li>
 	</ul>
 </div>
 
