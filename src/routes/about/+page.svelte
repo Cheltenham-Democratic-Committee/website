@@ -69,23 +69,23 @@
 			<ul class="precincts">
 				<li>
 					<h4>Precinct 1-1</h4>
-					<div class="committee-person">Terri Davis</div>
 					<div class="committee-person ward-leader">Martin Schmid (ward leader)</div>
+					<div class="committee-person vacant">(Vacant)</div>
 				</li>
 				<li>
 					<h4>Precinct 1-2</h4>
-					<div class="committee-person">Deborah McCarter</div>
-					<div class="committee-person">Jeffrey Williams</div>
+					<div class="committee-person">Jeffrey Aaron Williams</div>
+					<div class="committee-person">Kevin Mahoney</div>
 				</li>
 				<li>
 					<h4>Precinct 1-3</h4>
-					<div class="committee-person">Meika P. Jones</div>
-					<div class="committee-person">Vanessa McKenzie</div>
+					<div class="committee-person">Vanessa R. McKenzie</div>
+					<div class="committee-person">Meika Jones</div>
 				</li>
 				<li>
 					<h4>Precinct 1-4</h4>
-					<div class="committee-person vacant">Michelle Tiger</div>
-					<div class="committee-person vacant">(Vacant)</div>
+					<div class="committee-person">Janet Gray</div>
+					<div class="committee-person">Michelle Tiger</div>
 				</li>
 			</ul>
 		</li>
@@ -94,23 +94,23 @@
 			<ul class="precincts">
 				<li>
 					<h4>Precinct 2-1</h4>
+					<div class="committee-person">Coralie Barksdale</div>
 					<div class="committee-person ward-leader">Wendy Blutstein (ward leader)</div>
-					<div class="committee-person">Dwight Pedro Lewis</div>
 				</li>
 				<li>
 					<h4>Precinct 2-2</h4>
-					<div class="committee-person">Bruce Wagner</div>
-					<div class="committee-person">(Vacant)</div>
+					<div class="committee-person">Heidi Morein</div>
+					<div class="committee-person vacant">(Vacant)</div>
 				</li>
 				<li>
 					<h4>Precinct 2-3</h4>
-					<div class="committee-person">Daphne Oliver</div>
-					<div class="committee-person">Craig C. Browne</div>
+					<div class="committee-person">Craig Browne</div>
+					<div class="committee-person vacant">(Vacant)</div>
 				</li>
 				<li>
 					<h4>Precinct 2-4</h4>
-					<div class="committee-person">(Michelle Tiger)</div>
-					<div class="committee-person vacant">Sandra Byrd-Smith</div>
+					<div class="committee-person">Sandra Byrd-Smith</div>
+					<div class="committee-person vacant">(Vacant)</div>
 				</li>
 			</ul>
 		</li>
@@ -120,7 +120,7 @@
 				<li>
 					<h4>Precinct 3-1</h4>
 					<div class="committee-person">Ted Cerebi</div>
-					<div class="committee-person">Allison Martin Nguyen</div>
+					<div class="committee-person">Alyson Martin Nguyen</div>
 				</li>
 				<li>
 					<h4>Precinct 3-2</h4>
@@ -129,8 +129,8 @@
 				</li>
 				<li>
 					<h4>Precinct 3-3</h4>
-					<div class="committee-person">Brad Pransky</div>
 					<div class="committee-person">Leah Mulhearn</div>
+					<div class="committee-person vacant">(Vacant)</div>
 				</li>
 				<li>
 					<h4>Precinct 3-4</h4>
@@ -144,12 +144,12 @@
 			<ul class="precincts">
 				<li>
 					<h4>Precinct 4-1</h4>
-					<div class="committee-person">Sandra L. Jenkins</div>
+					<div class="committee-person">Sandra Jenkins</div>
 					<div class="committee-person vacant">(Vacant)</div>
 				</li>
 				<li>
 					<h4>Precinct 4-2</h4>
-					<div class="committee-person">Sandra Edwards</div>
+					<div class="committee-person vacant">(Vacant)</div>
 					<div class="committee-person vacant">(Vacant)</div>
 				</li>
 				<li>
@@ -160,7 +160,7 @@
 				<li>
 					<h4>Precinct 4-4</h4>
 					<div class="committee-person ward-leader">Steve Burns (ward leader)</div>
-					<div class="committee-person">Andrew D. Montroy</div>
+					<div class="committee-person">Andrew Montroy</div>
 				</li>
 			</ul>
 		</li>
@@ -174,18 +174,18 @@
 				</li>
 				<li>
 					<h4>Precinct 5-2</h4>
-					<div class="committee-person">Carla Davis Cunningham</div>
-					<div class="committee-person">Caryl T. Levin</div>
+					<div class="committee-person">Caryl Levin</div>
+					<div class="committee-person">Carla Cunningham</div>
 				</li>
 				<li>
 					<h4>Precinct 5-3</h4>
-					<div class="committee-person">Matthew McAlpin</div>
+					<div class="committee-person">Kim Decker</div>
 					<div class="committee-person vacant">(Vacant)</div>
 				</li>
 				<li>
 					<h4>Precinct 5-4</h4>
 					<div class="committee-person ward-leader">Joyce Drayton</div>
-					<div class="committee-person">Daniel Norris</div>
+					<div class="committee-person">Dan Norris</div>
 				</li>
 			</ul>
 		</li>
@@ -194,8 +194,8 @@
 			<ul class="precincts">
 				<li>
 					<h4>Precinct 6-1</h4>
-					<div class="committee-person ward-leader">Eileen Rall (ward leader)</div>
-					<div class="committee-person">Gretchen Wisehart</div>
+					<div class="committee-person vacant">(Vacant)</div>
+					<div class="committee-person vacant">(Vacant)</div>
 				</li>
 				<li>
 					<h4>Precinct 6-2</h4>
@@ -204,8 +204,8 @@
 				</li>
 				<li>
 					<h4>Precinct 6-3</h4>
-					<div class="committee-person">Nancy Smoler</div>
 					<div class="committee-person">Mitch Zygmund-Felt</div>
+					<div class="committee-person vacant">(Vacant)</div>
 				</li>
 			</ul>
 		</li>
@@ -214,12 +214,12 @@
 			<ul class="precincts">
 				<li>
 					<h4>Precinct 7-1</h4>
-					<div class="committee-person ward-leader">Linda P. Musumeci (ward leader)</div>
+					<div class="committee-person ward-leader">Linda Musumeci (ward leader)</div>
 					<div class="committee-person vacant">(Vacant)</div>
 				</li>
 				<li>
 					<h4>Precinct 7-2</h4>
-					<div class="committee-person">Marc Lieberson</div>
+					<div class="committee-person">Mark Lieberson</div>
 					<div class="committee-person">Donna Johnson Payne</div>
 				</li>
 				<li>
