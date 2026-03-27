@@ -14,38 +14,104 @@
 	</div>
 </div>
 
-<h2>2026 Races</h2>
-<p>
-	Endorsements for the 2026 elections have not yet been made. Below are the offices on the ballot.
-</p>
+<h2>2026 Endorsed Candidates</h2>
 
 <div id="races-2026">
 	<ul class="races">
 		<li>
 			<h3>Statewide Offices</h3>
-			<ul class="offices">
-				<li>Governor</li>
-				<li>State Treasurer</li>
+			<ul class="candidates">
+				<li>
+					<div class="candidate">
+						<div class="picture">
+							<img src="/images/candidates/2026/jshapiro.jpg" alt="Josh Shapiro" />
+						</div>
+						<div class="name">Josh Shapiro</div>
+					</div>
+					<div class="race">Governor</div>
+				</li>
+				<li>
+					<div class="candidate">
+						<div class="picture">
+							<img src="/images/candidates/2026/adavis.jpg" alt="Austin Davis" />
+						</div>
+						<div class="name">Austin Davis</div>
+					</div>
+					<div class="race">Lt. Governor</div>
+				</li>
 			</ul>
 		</li>
 		<li>
 			<h3>Federal Offices</h3>
-			<ul class="offices">
-				<li>U.S. House of Representatives (PA-04 District)</li>
+			<ul class="candidates">
+				<li>
+					<div class="candidate">
+						<div class="picture">
+							<img src="/images/candidates/2026/mdean.jpeg" alt="Madeleine Dean" />
+						</div>
+						<div class="name">Madeleine Dean</div>
+					</div>
+					<div class="race">U.S. House of Representatives (PA-04)</div>
+				</li>
 			</ul>
 		</li>
 		<li>
 			<h3>State Legislature</h3>
-			<ul class="offices">
-				<li>State Senate</li>
-				<li>State House of Representatives</li>
+			<ul class="candidates">
+				<li>
+					<div class="candidate">
+						<div class="picture">
+							<img src="/images/candidates/2026/ahaywood.jpg" alt="Art Haywood" />
+						</div>
+						<div class="name">Art Haywood</div>
+					</div>
+					<div class="race">State Senate (District 4)</div>
+				</li>
+				<li>
+					<div class="candidate">
+						<div class="picture">
+							<img src="/images/candidates/2026/nnelson.jpg" alt="Napoleon Nelson" />
+						</div>
+						<div class="name">Napoleon Nelson</div>
+					</div>
+					<div class="race">State House of Representatives (District 154)</div>
+				</li>
+			</ul>
+		</li>
+		<li>
+			<h3>Democratic State Committee (Senate District 4)</h3>
+			<ul class="candidates">
+				<li>
+					<div class="candidate">
+						<div class="name">Ayanna Laney-Martin</div>
+					</div>
+				</li>
+				<li>
+					<div class="candidate">
+						<div class="name">Sandra L. Jenkins</div>
+					</div>
+				</li>
+				<li>
+					<div class="candidate">
+						<div class="name">Dr. Craig Browne</div>
+					</div>
+				</li>
+				<li>
+					<div class="candidate">
+						<div class="name">P. Darby Doyle</div>
+					</div>
+				</li>
 			</ul>
 		</li>
 		<li>
 			<h3>Democratic Committee</h3>
-			<ul class="offices">
+			<ul class="candidates">
 				<li>
-					<a href="/run-for-committeeperson">Committee Person Elections</a> - Learn how to run!
+					<div class="candidate">
+						<div class="name">
+							<a href="/run-for-committeeperson">Committee Person Elections</a> - Learn how to run!
+						</div>
+					</div>
 				</li>
 			</ul>
 		</li>
@@ -98,14 +164,50 @@
 		font-weight: bold;
 	}
 
-	ul.offices {
-		list-style: disc;
-		padding-left: 40px;
+	ul.candidates {
+		list-style: none;
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: center;
+		padding: 5px;
+		margin: 0px;
 	}
 
-	ul.offices li {
-		text-align: left;
-		padding: 5px 0;
+	ul.candidates li {
+		width: 320px;
+		padding: 0px 10px;
+		margin-top: 20px;
+	}
+
+	div.candidate {
+		text-align: center;
+		font-weight: bold;
+		padding-bottom: 10px;
+	}
+
+	div.candidate div.name {
+		font-size: 1.2em;
+		white-space: nowrap;
+	}
+
+	div.race {
+		text-align: center;
+		background-color: #eee;
+		font-weight: bold;
+	}
+
+	div.picture {
+		margin: auto;
+		width: 300px;
+		height: 300px;
+		overflow: hidden;
+	}
+
+	div.picture img {
+		width: 100%;
+		height: 100%;
+		object-fit: cover;
+		object-position: center 20%;
 	}
 
 	ul.races {
