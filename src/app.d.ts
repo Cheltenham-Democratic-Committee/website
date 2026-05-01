@@ -7,6 +7,9 @@ declare global {
 		// interface PageData {}
 		// interface Platform {}
 	}
+	interface Window {
+		ml: (action: string, formId: string, force?: boolean) => void;
+	}
 }
 
 export {};
