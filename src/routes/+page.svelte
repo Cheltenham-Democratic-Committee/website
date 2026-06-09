@@ -22,10 +22,6 @@
 		<a class="button" href="/donate">Donate</a>
 	</div>
 </div>
-<div class="banner">
-	2026 is a committee person election year!
-	<a href="/run-for-committeeperson">Learn how to run</a>.
-</div>
 
 <h2>Meetings</h2>
 <Meetings />
@@ -47,12 +43,5 @@
 	}
 	#banner img {
 		width: 100%;
-	}
-	.banner {
-		margin: 30px;
-		padding: 20px;
-		text-align: center;
-		font-size: 1.4em;
-		background-color: #f9d362;
 	}
 </style>

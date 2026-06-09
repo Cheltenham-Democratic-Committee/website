@@ -103,18 +103,6 @@
 				</li>
 			</ul>
 		</li>
-		<li>
-			<h3>Democratic Committee</h3>
-			<ul class="candidates">
-				<li>
-					<div class="candidate">
-						<div class="name">
-							<a href="/run-for-committeeperson">Committee Person Elections</a> - Learn how to run!
-						</div>
-					</div>
-				</li>
-			</ul>
-		</li>
 	</ul>
 </div>
 
