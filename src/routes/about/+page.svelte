@@ -35,11 +35,15 @@
 		</li>
 		<li>
 			<h3>2nd Vice Chair</h3>
-			<div class="officer">Joyce Drayton</div>
+			<div class="officer">Thomas Spisak-Mosher</div>
 		</li>
 		<li>
 			<h3>Corresponding Secretary</h3>
-			<div class="officer">Chloe Woodrow</div>
+			<div class="officer">Damian Jackson</div>
+		</li>
+		<li>
+			<h3>Technology Secretary</h3>
+			<div class="officer">Beatrice Rolland</div>
 		</li>
 		<li>
 			<h3>Recording Secretary</h3>
@@ -51,11 +55,11 @@
 		</li>
 		<li>
 			<h3>Parliamentarian</h3>
-			<div class="officer">William Pillsbury</div>
+			<div class="officer">Irene Lambrou</div>
 		</li>
 		<li>
 			<h3>Representative At Large</h3>
-			<div class="officer">(Vacant)</div>
+			<div class="officer">Joyce Drayton</div>
 		</li>
 		<li></li>
 	</ul>
@@ -100,12 +104,12 @@
 				<li>
 					<h4>Precinct 2-2</h4>
 					<div class="committee-person">Heidi Morein</div>
-					<div class="committee-person vacant">(Vacant)</div>
+					<div class="committee-person vacant">Harriet Allen</div>
 				</li>
 				<li>
 					<h4>Precinct 2-3</h4>
 					<div class="committee-person">Craig Browne</div>
-					<div class="committee-person vacant">(Vacant)</div>
+					<div class="committee-person vacant">Sarah Kamangu</div>
 				</li>
 				<li>
 					<h4>Precinct 2-4</h4>
@@ -120,21 +124,21 @@
 				<li>
 					<h4>Precinct 3-1</h4>
 					<div class="committee-person">Ted Cerebi</div>
-					<div class="committee-person">Alyson Martin Nguyen</div>
+					<div class="committee-person">Allison Martin Nguyen</div>
 				</li>
 				<li>
 					<h4>Precinct 3-2</h4>
 					<div class="committee-person ward-leader">Joe Kappler (ward leader)</div>
-					<div class="committee-person">Ken Mirsky</div>
+					<div class="committee-person">(Vacant)</div>
 				</li>
 				<li>
 					<h4>Precinct 3-3</h4>
 					<div class="committee-person">Leah Mulhearn</div>
-					<div class="committee-person vacant">(Vacant)</div>
+					<div class="committee-person vacant">Carol Anne Raffa</div>
 				</li>
 				<li>
 					<h4>Precinct 3-4</h4>
-					<div class="committee-person">Geraldine (Gerry) Brown</div>
+					<div class="committee-person">Geraldine Brown</div>
 					<div class="committee-person vacant">(Vacant)</div>
 				</li>
 			</ul>
@@ -170,22 +174,22 @@
 				<li>
 					<h4>Precinct 5-1</h4>
 					<div class="committee-person">Fred Milbert (ward leader)</div>
-					<div class="committee-person">William Pillsbury</div>
+					<div class="committee-person">Kim Decker</div>
 				</li>
 				<li>
 					<h4>Precinct 5-2</h4>
 					<div class="committee-person">Caryl Levin</div>
-					<div class="committee-person">Carla Cunningham</div>
+					<div class="committee-person">Carla Davis Cunningham</div>
 				</li>
 				<li>
 					<h4>Precinct 5-3</h4>
-					<div class="committee-person">Kim Decker</div>
+					<div class="committee-person">Peter Olsho</div>
 					<div class="committee-person vacant">(Vacant)</div>
 				</li>
 				<li>
 					<h4>Precinct 5-4</h4>
 					<div class="committee-person ward-leader">Joyce Drayton</div>
-					<div class="committee-person">Dan Norris</div>
+					<div class="committee-person">Daniel Norris</div>
 				</li>
 			</ul>
 		</li>
@@ -194,18 +198,18 @@
 			<ul class="precincts">
 				<li>
 					<h4>Precinct 6-1</h4>
-					<div class="committee-person vacant">(Vacant)</div>
+					<div class="committee-person vacant">Zoraida Cordero</div>
 					<div class="committee-person vacant">(Vacant)</div>
 				</li>
 				<li>
 					<h4>Precinct 6-2</h4>
-					<div class="committee-person vacant">(Vacant)</div>
+					<div class="committee-person vacant">Wallace Weaver</div>
 					<div class="committee-person vacant">(Vacant)</div>
 				</li>
 				<li>
 					<h4>Precinct 6-3</h4>
 					<div class="committee-person">Mitch Zygmund-Felt</div>
-					<div class="committee-person vacant">(Vacant)</div>
+					<div class="committee-person vacant">Stephanie Curry</div>
 				</li>
 			</ul>
 		</li>
@@ -214,12 +218,12 @@
 			<ul class="precincts">
 				<li>
 					<h4>Precinct 7-1</h4>
-					<div class="committee-person ward-leader">Linda Musumeci (ward leader)</div>
+					<div class="committee-person ward-leader">Linda Musumeci</div>
 					<div class="committee-person vacant">(Vacant)</div>
 				</li>
 				<li>
 					<h4>Precinct 7-2</h4>
-					<div class="committee-person">Mark Lieberson</div>
+					<div class="committee-person">Marc Lieberson</div>
 					<div class="committee-person">Donna Johnson Payne</div>
 				</li>
 				<li>
@@ -243,7 +247,7 @@
 	</li>
 	<li>
 		<a href="https://www.cheltenhamtownship.org/pview.aspx?id=2423#gsc.tab=0"
-			>Finance Officer Mark Lieberson</a
+			>Finance Officer Melvin Pitts</a
 		>
 	</li>
 	<li>
@@ -259,7 +263,6 @@
 		>
 	</li>
 	<li><a href="https://dean.house.gov/biography">Congresswoman Madeleine Deane</a></li>
-	<li><a href="https://www.casey.senate.gov/">U.S. Senator Bob Casey</a></li>
 	<li><a href="https://www.fetterman.senate.gov/">U.S. Senator John Fetterman</a></li>
 	<li><a href="https://www.governor.pa.gov/">PA Governor Josh Shapiro</a></li>
 </ul>
