@@ -27,15 +27,15 @@
 		<li id="chairs">
 			<h3>Co-Chairs</h3>
 			<div class="officer">Julie Haywood</div>
-			<div class="officer">Daniel Schultz</div>
+			<div class="officer">Thomas Spisak-Mosher</div>
 		</li>
 		<li>
 			<h3>1st Vice Chair</h3>
-			<div class="officer">Leah Mulhearn</div>
+			<div class="officer">(Vacant)</div>
 		</li>
 		<li>
 			<h3>2nd Vice Chair</h3>
-			<div class="officer">Thomas Spisak-Mosher</div>
+			<div class="officer">(Vacant)</div>
 		</li>
 		<li>
 			<h3>Corresponding Secretary</h3>
