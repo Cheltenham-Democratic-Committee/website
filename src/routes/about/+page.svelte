@@ -31,11 +31,11 @@
 		</li>
 		<li>
 			<h3>1st Vice Chair</h3>
-			<div class="officer">(Vacant)</div>
+			<div class="officer">Fred Milbert</div>
 		</li>
 		<li>
 			<h3>2nd Vice Chair</h3>
-			<div class="officer">(Vacant)</div>
+			<div class="officer">Kim Decker</div>
 		</li>
 		<li>
 			<h3>Corresponding Secretary</h3>
@@ -88,7 +88,7 @@
 				</li>
 				<li>
 					<h4>Precinct 1-4</h4>
-					<div class="committee-person">Janet Gray</div>
+					<div class="committee-person vacant">(Vacant)</div>
 					<div class="committee-person">Michelle Tiger</div>
 				</li>
 			</ul>
@@ -98,23 +98,23 @@
 			<ul class="precincts">
 				<li>
 					<h4>Precinct 2-1</h4>
-					<div class="committee-person">Coralie Barksdale</div>
+					<div class="committee-person vacant">(Vacant)</div>
 					<div class="committee-person ward-leader">Wendy Blutstein (ward leader)</div>
 				</li>
 				<li>
 					<h4>Precinct 2-2</h4>
 					<div class="committee-person">Heidi Morein</div>
-					<div class="committee-person vacant">Harriet Allen</div>
+					<div class="committee-person vacant">(Vacant)</div>
 				</li>
 				<li>
 					<h4>Precinct 2-3</h4>
 					<div class="committee-person">Craig Browne</div>
-					<div class="committee-person vacant">Sarah Kamangu</div>
+					<div class="committee-person vacant">(Vacant)</div>
 				</li>
 				<li>
 					<h4>Precinct 2-4</h4>
 					<div class="committee-person">Sandra Byrd-Smith</div>
-					<div class="committee-person vacant">(Vacant)</div>
+					<div class="committee-person">James VanBeverhoudt</div>
 				</li>
 			</ul>
 		</li>
@@ -129,7 +129,7 @@
 				<li>
 					<h4>Precinct 3-2</h4>
 					<div class="committee-person ward-leader">Joe Kappler (ward leader)</div>
-					<div class="committee-person">(Vacant)</div>
+					<div class="committee-person">Fred Golstein</div>
 				</li>
 				<li>
 					<h4>Precinct 3-3</h4>
@@ -139,7 +139,7 @@
 				<li>
 					<h4>Precinct 3-4</h4>
 					<div class="committee-person">Geraldine Brown</div>
-					<div class="committee-person vacant">(Vacant)</div>
+					<div class="committee-person">Jennifer Edmonds</div>
 				</li>
 			</ul>
 		</li>
@@ -149,7 +149,7 @@
 				<li>
 					<h4>Precinct 4-1</h4>
 					<div class="committee-person">Sandra Jenkins</div>
-					<div class="committee-person vacant">(Vacant)</div>
+					<div class="committee-person">Richard Morfopoulos</div>
 				</li>
 				<li>
 					<h4>Precinct 4-2</h4>
@@ -158,7 +158,7 @@
 				</li>
 				<li>
 					<h4>Precinct 4-3</h4>
-					<div class="committee-person vacant">(Vacant)</div>
+					<div class="committee-person">Justine Gerety</div>
 					<div class="committee-person vacant">(Vacant)</div>
 				</li>
 				<li>
@@ -183,7 +183,7 @@
 				</li>
 				<li>
 					<h4>Precinct 5-3</h4>
-					<div class="committee-person">Peter Olsho</div>
+					<div class="committee-person vacant">(Vacant)</div>
 					<div class="committee-person vacant">(Vacant)</div>
 				</li>
 				<li>
@@ -199,7 +199,7 @@
 				<li>
 					<h4>Precinct 6-1</h4>
 					<div class="committee-person vacant">Zoraida Cordero</div>
-					<div class="committee-person vacant">(Vacant)</div>
+					<div class="committee-person">Scott Appel</div>
 				</li>
 				<li>
 					<h4>Precinct 6-2</h4>
