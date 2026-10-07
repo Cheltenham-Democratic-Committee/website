@@ -12,7 +12,7 @@ Join us at <a href="https://maps.app.goo.gl/wMegt4ySXNhxDP8n7" target="_blank"
 	<li>July 13th, 2026</li>
 	<li>No meeting in August</li>
 	<li>September 14th, 2026</li>
-	<li>October 5th, 2026 (1st Monday)</li>
+	<li>October 13th, 2026 (Tuesday)</li>
 	<li>November 9th, 2026</li>
 	<li>December 14th, 2026</li>
 </ul>
