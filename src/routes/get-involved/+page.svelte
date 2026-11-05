@@ -1,5 +1,5 @@
 <script>
-	import Meetings from '$lib/Meetings.svelte';
+	import Meetings from '#lib/Meetings.svelte';
 </script>
 
 <h2>Meetings</h2>
